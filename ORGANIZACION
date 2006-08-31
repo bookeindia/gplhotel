@@ -1,0 +1,7 @@
+Organizacion:
+
+1. Archivos de inclusi'on: include/
+2. Archivos de plantillas: template/
+3. Archivos de contenido: body/
+4. Modulos (ni 2 ni 3): modules/
+5. Otros: misc/
